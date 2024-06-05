@@ -17,3 +17,12 @@ There are modes which will be using so when we press "i" in our keyboard it will
 mode then you will press "Esc" to escape out of insert mode .
 to quit neovim just press :q in normal mode in neovim .
 to write something in that file :w in normal mode i neovim .
+
+# NvChad
+This is the thing which we will be using to modify our normal neovim user interface .
+#### How to achieve this ??
+you just simple need to run a command before that we will be creating a backup if you have any previous configurating for your neovim
+`mv ~/.config/nvim ~/.config/nvimBackup
+rm -rf ~/.local/share/nvim`
+Now the main command we need to run
+`git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1`
