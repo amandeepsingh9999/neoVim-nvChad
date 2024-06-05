@@ -30,3 +30,6 @@ Now the main command we need to run
 ```
 git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
 ```
+
+Well then you will see something downloading wait for sometime then your Ide will look like this
+![](Assets/Screenshot_06-Jun_00-14-14_23849.png)
