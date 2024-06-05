@@ -11,3 +11,9 @@ So if you run nvim in your preffered termianl i use zsh but you are using linux 
 ##
 #### This is what Terminal Looks like when you run nvim command in your pc
 ![](Assets/Screenshot_05-Jun_23-09-49_16382.png)
+
+#### Some basic command i will tell you to make your Neovim journey less painful.
+There are modes which will be using so when we press "i" in our keyboard it will go in insert mode if you are in insert mode and you want to go to normal 
+mode then you will press "Esc" to escape out of insert mode .
+to quit neovim just press :q in normal mode in neovim .
+to write something in that file :w in normal mode i neovim .
